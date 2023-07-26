@@ -1,0 +1,3 @@
+# google_cloud_run_job
+Cloud run job on Google Cloud for running ML model automatically
+to be continued...
