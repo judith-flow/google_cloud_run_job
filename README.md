@@ -14,3 +14,6 @@ Because Cloud Run can shut down completely, but App Engine needs at least one in
 Reference:
 
 https://dev.to/pcraig3/cloud-run-vs-app-engine-a-head-to-head-comparison-using-facts-and-science-1225
+
+## Deploy
+details in file: deploy_steps_powershell.ps1
